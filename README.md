@@ -174,8 +174,11 @@ Objetivo: Conocer las técnicas de almacenamiento y diseño de un data warehouse
 # Concepts
 
 Concepts of information systems: Information system, OLTP OLAP, ACID properties.  
+
 Database concepts: Database, Concurrency, Integrity, DBMS, NoSQL, CAP, BASE.  
+
 Analysis of requirements, Conceptual design, Logical design, Physical design.
+
 SQL, ddl, dml, Identifier, Data types, NULL, Example databases and tables, SELECT, GROUP BY, ORDER BY, AND & OR Operators, CASE, LIKE operator, IN clause, Filter results using WHERE and HAVING, SKIP TAKE (Pagination), EXCEPT, EXPLAIN and DESCRIBE, EXISTS CLAUSE, JOIN, UPDATE, CREATE Database, CREATE TABLE, CREATE FUNCTION, TRY/CATCH, UNION / UNION ALL, ALTER TABLE, INSERT, MERGE, cross apply outer apply, DELETE, TRUNCATE, DROP Table, DROP or DELETE Database, Cascading Delete, GRANT and REVOKE, XML, Primary Keys, Indexes, Row number, SQL Group By vs Distinct, Finding Duplicates on a Column Subset with Detail, String Functions, Functions (Aggregate), Functions (Scalar/Single Row), Functions (Analytic), Window Functions, Common Table Expressions, Views, Materialized Views, Comments, Foreign Keys, Sequence, Subqueries, Execution blocks, Stored Procedures, Triggers, Transactions, Table Design, Synonyms, Information Schema, Order of Execution, Clean Code in SQL, SQL Injection.
 Cursor, ORM.
 
